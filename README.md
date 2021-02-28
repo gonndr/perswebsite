@@ -1,2 +1,2 @@
-# perswebsite
-Personal Website
+# Personal Website
+A simple personal website showcasing my skillset and interests.
